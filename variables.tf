@@ -10,6 +10,6 @@ variable "user" {
 
 variable "password" {
   description = "pwd User - apagar antes de subir"
-  default  = "Luiz2608"
+  default  = ""
 }
 
